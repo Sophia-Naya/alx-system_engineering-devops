@@ -1,2 +1,2 @@
 #!/bin/bssh
-ls -la > ls_cwd_content
+ls -la > ls cwd_content
